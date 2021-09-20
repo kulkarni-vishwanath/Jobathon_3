@@ -41,7 +41,7 @@ The evaluation metrics for this competition is MSLE*1000.
 
 **Public LB Score:** 208.277653270504
 
-**Private Leaderboard:** 214/1017
+**Private Leaderboard:** 
 
 **Private LB Score:** 239.544729500494
 
